@@ -1,0 +1,24 @@
+[{
+    "name": {
+        "first": "David",
+        "last": "Para"
+    },
+    "address": "123 Main St. Chicago, IL 60601",
+    "phoneNumber": 15551234567
+},
+{
+    "name": {
+        "first": "John",
+        "last": "Doe"
+    },
+    "address": "456 Main St. New York, NY 10001",
+    "phoneNumber": null
+},
+{
+    "name": {
+        "first": "Jane",
+        "last": "Doe"
+    },
+    "address": "789 Main St. Los Angeles, IL 90001",
+    "phoneNumber": 15557654321
+}]
